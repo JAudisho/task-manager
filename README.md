@@ -63,7 +63,7 @@ I wanted to create something that stands out—an app that’s functional, moder
 - Calendar Integration: FullCalendar.js (for calendar view)
 ## How to Run It
 - Clone the repository:
-- git clone https://github.com/<your-username>/task-manager-pro.git
+- git clone https://github.com/JAudisho/task-manager-pro.git
 - Open index.html in your browser.
 - That’s it—you’re ready to manage your tasks like a pro!
 ## What I Learned
